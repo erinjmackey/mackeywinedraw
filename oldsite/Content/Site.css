@@ -1,0 +1,29 @@
+﻿
+header > .container{
+     background-color: #600;
+     border-radius: 25px;
+     color:whitesmoke;
+     width: 100%;
+}
+body {
+    background-color: #630000;
+    font-family: Georgia, serif;
+}
+.container {
+    width: 100%;
+}
+.card-deck .card{
+  min-width:auto;
+}
+.btn-primary {
+    color: #fff;
+    background-color: #890505;
+    border-color: #600;
+}
+.card {
+	margin-bottom: 25px;
+}
+.card-header {
+	font-size: xxx-large;
+	text-align: center;
+}
